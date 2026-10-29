@@ -148,7 +148,7 @@ zeckathon-ps03-liquidity-risk/
 
 ### 1. Clone & Environment Setup
 ```bash
-git clone https://github.com/username/zeckathon-ps03-liquidity-risk.git
+git clone https://github.com/ram-malhotra/zeckathon-ps03-liquidity-risk.git
 cd zeckathon-ps03-liquidity-risk
 
 # Create and activate virtual environment
